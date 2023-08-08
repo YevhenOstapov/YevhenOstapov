@@ -9,7 +9,8 @@ A top-tier web developer with AI expertise and bleeding-edge tech.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=NisaarAgharia&label=Profile%20views&color=brightgreen&style=flat" alt="YevhenOstapov" /> </p>
 <p align="center">
-<img height="480" width="480" src="./giphy.gif" alt="YevhenOstapov" /></a>
+<img height="480" width="480" src="./chat.svg" alt="YevhenOstapov" /></a>
+<img height="200" width="480" src="./github-contribution-grid-snake.svg" alt="YevhenOstapov" /></a>
 </p>
 
 
